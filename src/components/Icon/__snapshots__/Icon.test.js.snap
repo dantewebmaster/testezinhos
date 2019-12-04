@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page init must renders welcome icon 1`] = `
+Array [
+  .c0 {
+  font-family: 'fa_font';
+  font-size: 30px;
+}
+
+.c0:before {
+  content: "\\";
+  color: #fff;
+  font-style: normal;
+}
+
+<i
+    className="c0"
+    color="#fff"
+    onClick={[Function]}
+  />,
+  <p>
+    0
+  </p>,
+]
+`;
